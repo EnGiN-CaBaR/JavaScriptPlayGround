@@ -2,6 +2,6 @@
  * 
  */
 
-function displayName() {
-	document.getElementById("demo").innerHTML = "Engin";
+function displayDate() {
+	document.getElementById("demo").innerHTML = Date();
 }
